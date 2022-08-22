@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+    		"layer0": "item/firework_star",
+    		"layer1": "item/firework_star_overlay"
+  	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "enmity:item/soul_essence"},
+		{"predicate": {"custom_model_data":2}, "model": "enmity:item/witherbone"},
+		{"predicate": {"custom_model_data":3}, "model": "enmity:item/flame"},
+
+
+		{"predicate": {"custom_model_data":6}, "model": "enmity:item/soul_of_nature"},
+		{"predicate": {"custom_model_data":7}, "model": "enmity:item/celestial_shard"},
+		{"predicate": {"custom_model_data":8}, "model": "enmity:item/lightly_matter"},
+		{"predicate": {"custom_model_data":9}, "model": "enmity:item/nightly_matter"},
+		{"predicate": {"custom_model_data":10}, "model": "enmity:item/elder_guardians_scale"},
+
+		{"predicate": {"custom_model_data":12}, "model": "enmity:item/death_essence"},
+		{"predicate": {"custom_model_data":13}, "model": "enmity:item/eternal_shard"},
+		{"predicate": {"custom_model_data":14}, "model": "enmity:item/oak_acorn"},
+		{"predicate": {"custom_model_data":15}, "model": "enmity:item/spruce_cone"},
+		{"predicate": {"custom_model_data":16}, "model": "enmity:item/birch_catkin"},
+		{"predicate": {"custom_model_data":17}, "model": "enmity:item/jungle_pod"},
+		{"predicate": {"custom_model_data":18}, "model": "enmity:item/acacia_seed"},
+		{"predicate": {"custom_model_data":19}, "model": "enmity:item/dark_oak_acorn"},
+		{"predicate": {"custom_model_data":1001}, "model": "enmity:custom/clear"}
+	]
+}

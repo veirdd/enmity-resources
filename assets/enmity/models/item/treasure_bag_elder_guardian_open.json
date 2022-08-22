@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "enmity:item/treasure_bag_elder_guardian_open"
+	},
+	
+	"overrides": [
+		{"predicate": {"filled":0.0000001}, "model": "item/treasure_bag_elder_guardian"}
+	]
+}

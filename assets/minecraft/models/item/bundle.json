@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bundle_filled"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "enmity:item/treasure_bag_giant"},
+		{"predicate": {"custom_model_data":2}, "model": "enmity:item/treasure_bag_wither"},
+		{"predicate": {"custom_model_data":3}, "model": "enmity:item/treasure_bag_elder_guardian"},
+		{"predicate": {"custom_model_data":4}, "model": "enmity:item/void_bag"}
+	]
+}

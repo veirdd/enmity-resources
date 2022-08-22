@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "enmity:custom/silvan_crystal"
+  },
+  "display": {
+    "head": {
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "enmity:entity/wraith"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [-4, 5, -4],
+			"to": [4, 27, 4],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [0, 20, 0]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 7.5], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 7.5], "texture": "#1"},
+				"south": {"uv": [6, 2, 8, 7.5], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 7.5], "texture": "#1"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#1"},
+				"down": {"uv": [2, 0, 0, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "right_arm",
+			"from": [3, 10, -2],
+			"to": [7, 22, 2],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [0, 20, 0]},
+			"faces": {
+				"north": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"east": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"south": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"west": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"up": {"uv": [9, 1, 8, 0], "texture": "#1"},
+				"down": {"uv": [5, 0, 4, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "right_arm",
+			"from": [-7, 10, -2],
+			"to": [-3, 22, 2],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [0, 20, 0]},
+			"faces": {
+				"north": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"east": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"south": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"west": {"uv": [8, 1, 9, 4], "texture": "#1"},
+				"up": {"uv": [9, 1, 8, 0], "texture": "#1"},
+				"down": {"uv": [5, 0, 4, 1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [14, -27, 14],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "wraith_0",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "body",
+					"origin": [0, 20, 0],
+					"children": [0]
+				},
+				{
+					"name": "left_arm",
+					"origin": [-5, 20, 0],
+					"shade": false,
+					"children": []
+				},
+				{
+					"name": "right_arm",
+					"origin": [5, 20, 0],
+					"children": [1, 2]
+				}
+			]
+		}
+	]
+}

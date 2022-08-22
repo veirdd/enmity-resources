@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "enmity:item/firework_star"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/soul_essence"},
+		{"predicate": {"custom_model_data":2}, "model": "item/witherbone"},
+		{"predicate": {"custom_model_data":3}, "model": "item/flame"},
+		{"predicate": {"custom_model_data":4}, "model": "item/boulder_item"},
+		{"predicate": {"custom_model_data":5}, "model": "item/rotten_flesh"},
+		{"predicate": {"custom_model_data":6}, "model": "item/soul_of_nature"},
+		{"predicate": {"custom_model_data":7}, "model": "item/celestial_shard"},
+		{"predicate": {"custom_model_data":8}, "model": "item/lightly_matter"},
+		{"predicate": {"custom_model_data":9}, "model": "item/nightly_matter"},
+		{"predicate": {"custom_model_data":10}, "model": "item/elder_guardians_scale"},
+		{"predicate": {"custom_model_data":11}, "model": "item/dragons_soul"},
+		{"predicate": {"custom_model_data":12}, "model": "item/death_essence"},
+		{"predicate": {"custom_model_data":13}, "model": "item/eternal_shard"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/clear"}
+	]
+}

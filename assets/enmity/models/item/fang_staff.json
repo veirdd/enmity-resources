@@ -1,0 +1,76 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "enmity:item/fang_staff"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        55
+      ],
+      "translation": [
+        0,
+        3.0,
+        1
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -55
+      ],
+      "translation": [
+        0,
+        3.0,
+        1
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -20,
+        -90,
+        10
+      ],
+      "translation": [
+        0.9,
+        4.8,
+        -0.26
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -20,
+        -90,
+        -80
+      ],
+      "translation": [
+        0.9,
+        4.8,
+        -0.26
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

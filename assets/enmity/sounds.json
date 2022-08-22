@@ -1,0 +1,441 @@
+{
+    "ambience.desert_wind": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/desert_wind",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.desert_crickets": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/desert_crickets",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.vulture": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/vulture0",
+                "volume": 1,
+                "attenuation_distance": 32
+            },
+            {
+                "name": "enmity:ambience/vulture1",
+                "volume": 1,
+                "attenuation_distance": 32
+            },
+            {
+                "name": "enmity:ambience/vulture2",
+                "volume": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "ambience.rattlesnake": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/rattlesnake0",
+                "volume": 1
+            },
+            {
+                "name": "enmity:ambience/rattlesnake1",
+                "volume": 1
+            },
+            {
+                "name": "enmity:ambience/rattlesnake2",
+                "volume": 1
+            }
+        ]
+    },
+    "ambience.wind": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/wind",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.insects": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/insects",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.night_crickets": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/night_crickets",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.mosquito": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/mosquito0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/mosquito1",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.birds": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/birds0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/birds1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/birds2",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/birds3",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/birds4",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.river": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/river0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/river1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/river2",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.crows": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/crows0",
+                "volume": 1,
+                "stream": true,
+                "attenuation_distance": 32
+            },
+            {
+                "name": "enmity:ambience/crows1",
+                "volume": 1,
+                "stream": true,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "ambience.jungle": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/jungle0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/jungle1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/jungle2",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.underground": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/underground0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/underground1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/underground2",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.deep_underground": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/underground0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/underground1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/underground2",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/deep_underground0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/deep_underground1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/deep_underground2",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/deep_underground3",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.waves": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/waves0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/waves1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/waves2",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/waves3",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/waves4",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.seagulls": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/seagulls0",
+                "volume": 1,
+                "attenuation_distance": 32
+            },
+            {
+                "name": "enmity:ambience/seagulls1",
+                "volume": 1,
+                "attenuation_distance": 32
+            },
+            {
+                "name": "enmity:ambience/seagulls2",
+                "volume": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "ambience.wolf": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/wolf",
+                "volume": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "ambience.swamp": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/swamp0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/swamp1",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/swamp2",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/swamp3",
+                "volume": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.bell": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/bell0",
+                "volume": 1,
+                "stream": false
+            },
+            {
+                "name": "enmity:ambience/bell1",
+                "volume": 1,
+                "stream": false
+            }
+        ]
+    },
+    "ambience.owl": {
+        "sounds": [
+            {
+                "name": "enmity:ambience/owl0",
+                "volume": 1,
+                "stream": true
+            },
+            {
+                "name": "enmity:ambience/owl1",
+                "volume": 1,
+                "stream": false
+            },
+            {
+                "name": "enmity:ambience/owl2",
+                "volume": 1,
+                "stream": false
+            }
+        ]
+    },
+    "entity.elder_guardian.laser": {
+        "sounds": [
+            {
+                "name": "enmity:entity/elder_guardian/laser",
+                "volume": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "entity.elder_guardian.geyser": {
+        "sounds": [
+            {
+                "name": "enmity:entity/elder_guardian/geyser0",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/elder_guardian/geyser1",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/elder_guardian/geyser2",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/elder_guardian/geyser3",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/elder_guardian/geyser4",
+                "volume": 1
+            }
+        ]
+    },
+    "entity.harpy.ambient": {
+        "sounds": [
+            {
+                "name": "enmity:entity/harpy/ambient0",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/harpy/ambient1",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/harpy/ambient2",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/harpy/ambient3",
+                "volume": 1
+            }
+        ]
+    },
+    "entity.harpy.hurt": {
+        "sounds": [
+            {
+                "name": "enmity:entity/harpy/hurt0",
+                "volume": 1
+            },
+            {
+                "name": "enmity:entity/harpy/hurt1",
+                "volume": 1
+            }
+        ]
+    },
+    "entity.harpy.death": {
+        "sounds": [
+            {
+                "name": "enmity:entity/harpy/death",
+                "volume": 1
+            }
+        ]
+    },
+    "item.delirium.shoot": {
+        "sounds": [
+            {
+                "name": "enmity:item/delirium/shoot",
+                "volume": 1,
+                "attenuation_distance": 24
+            }
+        ]
+    },
+    "item.digger.dig": {
+        "sounds": [
+            {
+                "name": "enmity:item/digger/dig",
+                "volume": 1
+            }
+        ]
+    }
+}
