@@ -8,6 +8,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 7, -4, 8, 1, 8], "textureOffset": [0, 0]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -17,6 +24,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 6, -4, 8, 1, 8], "textureOffset": [0, 1]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -26,6 +40,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 5, -4, 8, 1, 8], "textureOffset": [24, 10]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -35,6 +56,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 4, -4, 8, 1, 8], "textureOffset": [24, 19]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -139,10 +167,13 @@
 			],
 			"animations": [
 				{
-    					"flame_spewer.sx": "0.325",
-    					"flame_spewer.sy": "0.325",
-    					"flame_spewer.sz": "0.325",
-    					"flame_spewer.ty": "-3", 
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"flame_spewer.sx": "0.325",
+					"flame_spewer.sy": "0.325",
+					"flame_spewer.sz": "0.325",
+					"flame_spewer.ty": "-3",
 					"tentacle1.rx": "torad(5*sin(age*0.05)-90)",
 					"tentacle8.rx": "torad(5*sin(age*0.05))",
 					"tentacle6.rx": "torad(5*sin(age*0.05)+90)",
@@ -164,6 +195,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 2, -4, 8, 1, 8], "textureOffset": [0, 5]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -173,6 +211,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 1, -4, 8, 1, 8], "textureOffset": [0, 6]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -182,6 +227,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 0, -4, 8, 1, 8], "textureOffset": [0, 7]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		},
 		{
@@ -191,6 +243,13 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-2, 2, -2, 4, 4, 4], "textureOffset": [0, 16]}
+			],
+			"animations": [
+				{
+					"this.sx": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sy": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)",
+					"this.sz": "if(between(clamp(age, 0, 3), 3, 3), 1, 0)"
+				}
 			]
 		}
 	]
