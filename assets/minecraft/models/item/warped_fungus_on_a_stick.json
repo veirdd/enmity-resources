@@ -131,6 +131,7 @@
 		{"predicate": {"custom_model_data":1011}, "model": "enmity:entity/target_dummy_target"},
 		{"predicate": {"custom_model_data":1012}, "model": "enmity:entity/smiler_1"},
 		{"predicate": {"custom_model_data":1013}, "model": "enmity:entity/smiler_2"},
-		{"predicate": {"custom_model_data":1014}, "model": "enmity:entity/smiler_3"}
+		{"predicate": {"custom_model_data":1014}, "model": "enmity:entity/smiler_3"},
+		{"predicate": {"custom_model_data":1015}, "model": "enmity:entity/nimbus"}
 	]
 }
