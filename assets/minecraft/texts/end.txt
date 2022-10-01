@@ -1,6 +1,31 @@
-§3Enmity§2, made by§3 Veird§2.
+§2Enmity, made by Veird.
 
-§2Thank you for playing,§3 PLAYERNAME§2.
+§2Thanks for being here,§3 PLAYERNAME§2.
+
+§2This is the part where I make a wall of text about how great my creation is and you sit and read it patiently.
+
+§2Actually, good job on getting through all of this... unless you played on normal mode, if so then go away.
+
+§2Before we get on and you do something more interesting than reading the credits, let's a have a quick chat.
+
+§2This is all being written at the time when Enmity isn't released to public yet. 
+
+§2I'm also not going to change these credits in the future, just as a memorial.
+
+§2I've already spent lots of time making this thing, I should probably go touch some grass.
+
+§2If you're reading this, then I'm probably going to spend even more.
+
+§2I'm really glad that Enmity became a thing, I had never expected it to get this far.
+
+§2Unlike the countless projects that I've abandoned.
+
+§2I don't care if what some will remember me for is a Minecraft datapack.
+
+§3What I care about is that you suffered going through it.
+
+
+§2Now, go take the Dragon's egg and make the Delirium.
 
 
 
@@ -11,6 +36,4 @@
 
 
 
-
-
-§7why are you still here lmao
+§7why are you still here lol
