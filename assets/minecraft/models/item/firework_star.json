@@ -10,7 +10,7 @@
 		{"predicate": {"custom_model_data":2}, "model": "enmity:item/witherbone"},
 		{"predicate": {"custom_model_data":3}, "model": "enmity:item/flame"},
 
-
+		{"predicate": {"custom_model_data":5}, "model": "enmity:item/cloud"},
 		{"predicate": {"custom_model_data":6}, "model": "enmity:item/soul_of_nature"},
 		{"predicate": {"custom_model_data":7}, "model": "enmity:item/celestial_shard"},
 		{"predicate": {"custom_model_data":8}, "model": "enmity:item/lightly_matter"},
