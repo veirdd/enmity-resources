@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "enmity:item/mana_condensator"
+    "layer0": "enmity:item/mana_capacitor"
   }
 }
