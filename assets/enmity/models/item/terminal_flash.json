@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "enmity:item/helium_flash"
+    "layer0": "enmity:item/terminal_flash"
   },
   "display": {
     "thirdperson_righthand": {

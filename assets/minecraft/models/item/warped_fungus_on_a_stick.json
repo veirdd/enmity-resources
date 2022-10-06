@@ -44,7 +44,7 @@
 		{"predicate": {"custom_model_data":37}, "model": "enmity:item/rainbow_rod"},
 		{"predicate": {"custom_model_data":38}, "model": "enmity:item/flamelash"},
 		{"predicate": {"custom_model_data":39}, "model": "enmity:item/liquidator"},
-		{"predicate": {"custom_model_data":40}, "model": "enmity:item/helium_flash"},
+		{"predicate": {"custom_model_data":40}, "model": "enmity:item/terminal_flash"},
 		{"predicate": {"custom_model_data":41}, "model": "enmity:item/flare_bolt"},
 		{"predicate": {"custom_model_data":42}, "model": "enmity:item/rotten_lure"},
 		{"predicate": {"custom_model_data":43}, "model": "enmity:item/shiny_red_balloon"},
