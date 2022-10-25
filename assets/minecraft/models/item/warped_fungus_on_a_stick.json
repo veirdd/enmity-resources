@@ -120,6 +120,7 @@
 		{"predicate": {"custom_model_data":113}, "model": "enmity:item/winged_strawberry"},
 		{"predicate": {"custom_model_data":114}, "model": "enmity:item/mana_capacitor"},
 		{"predicate": {"custom_model_data":115}, "model": "enmity:item/smitation_rod"},
+		{"predicate": {"custom_model_data":116}, "model": "enmity:item/sculk_verge"},
 		{"predicate": {"custom_model_data":1001}, "model": "enmity:custom/leaf"},
 		{"predicate": {"custom_model_data":1002}, "model": "enmity:custom/silvan_crystal"},
 		{"predicate": {"custom_model_data":1003}, "model": "enmity:entity/wraith_1"},
