@@ -119,8 +119,9 @@
 		{"predicate": {"custom_model_data":112}, "model": "enmity:item/ring_of_devotion"},
 		{"predicate": {"custom_model_data":113}, "model": "enmity:item/winged_strawberry"},
 		{"predicate": {"custom_model_data":114}, "model": "enmity:item/mana_capacitor"},
-		{"predicate": {"custom_model_data":115}, "model": "enmity:item/smitation_rod"},
+		{"predicate": {"custom_model_data":115}, "model": "enmity:item/dazzling_rod"},
 		{"predicate": {"custom_model_data":116}, "model": "enmity:item/sculk_verge"},
+		{"predicate": {"custom_model_data":117}, "model": "enmity:item/crystalline_twig"},
 		{"predicate": {"custom_model_data":1001}, "model": "enmity:custom/leaf"},
 		{"predicate": {"custom_model_data":1002}, "model": "enmity:custom/silvan_crystal"},
 		{"predicate": {"custom_model_data":1003}, "model": "enmity:entity/wraith_1"},
@@ -135,6 +136,10 @@
 		{"predicate": {"custom_model_data":1012}, "model": "enmity:entity/smiler_1"},
 		{"predicate": {"custom_model_data":1013}, "model": "enmity:entity/smiler_2"},
 		{"predicate": {"custom_model_data":1014}, "model": "enmity:entity/smiler_3"},
-		{"predicate": {"custom_model_data":1015}, "model": "enmity:entity/nimbus"}
+		{"predicate": {"custom_model_data":1015}, "model": "enmity:entity/nimbus"},
+		{"predicate": {"custom_model_data":1016}, "model": "enmity:custom/crystalline_cluster_1"},
+		{"predicate": {"custom_model_data":1017}, "model": "enmity:custom/crystalline_cluster_2"},
+		{"predicate": {"custom_model_data":1018}, "model": "enmity:custom/crystalline_cluster_3"},
+		{"predicate": {"custom_model_data":1019}, "model": "enmity:custom/crystalline_cluster_4"}
 	]
 }

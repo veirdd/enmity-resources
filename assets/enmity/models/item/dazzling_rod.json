@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "enmity:item/smitation_rod"
+    "layer0": "enmity:item/dazzling_rod"
   }
 }
