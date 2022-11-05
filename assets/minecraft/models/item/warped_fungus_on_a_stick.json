@@ -140,6 +140,7 @@
 		{"predicate": {"custom_model_data":1016}, "model": "enmity:custom/crystalline_cluster_1"},
 		{"predicate": {"custom_model_data":1017}, "model": "enmity:custom/crystalline_cluster_2"},
 		{"predicate": {"custom_model_data":1018}, "model": "enmity:custom/crystalline_cluster_3"},
-		{"predicate": {"custom_model_data":1019}, "model": "enmity:custom/crystalline_cluster_4"}
+		{"predicate": {"custom_model_data":1019}, "model": "enmity:custom/crystalline_cluster_4"},
+		{"predicate": {"custom_model_data":1020}, "model": "enmity:entity/smiler_4"}
 	]
 }
