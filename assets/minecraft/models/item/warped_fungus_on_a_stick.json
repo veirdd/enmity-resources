@@ -122,6 +122,7 @@
 		{"predicate": {"custom_model_data":115}, "model": "enmity:item/dazzling_rod"},
 		{"predicate": {"custom_model_data":116}, "model": "enmity:item/sculk_verge"},
 		{"predicate": {"custom_model_data":117}, "model": "enmity:item/crystalline_twig"},
+		{"predicate": {"custom_model_data":118}, "model": "enmity:item/necklace_of_vitality"},
 		{"predicate": {"custom_model_data":1001}, "model": "enmity:custom/leaf"},
 		{"predicate": {"custom_model_data":1002}, "model": "enmity:custom/silvan_crystal"},
 		{"predicate": {"custom_model_data":1003}, "model": "enmity:entity/wraith_1"},
