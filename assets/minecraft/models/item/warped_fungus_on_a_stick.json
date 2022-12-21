@@ -142,6 +142,8 @@
 		{"predicate": {"custom_model_data":1017}, "model": "enmity:custom/crystalline_cluster_2"},
 		{"predicate": {"custom_model_data":1018}, "model": "enmity:custom/crystalline_cluster_3"},
 		{"predicate": {"custom_model_data":1019}, "model": "enmity:custom/crystalline_cluster_4"},
-		{"predicate": {"custom_model_data":1020}, "model": "enmity:entity/smiler_4"}
+		{"predicate": {"custom_model_data":1020}, "model": "enmity:entity/smiler_4"},
+		{"predicate": {"custom_model_data":1021}, "model": "enmity:entity/crimson_visage"},
+		{"predicate": {"custom_model_data":1022}, "model": "enmity:entity/warped_visage"}
 	]
 }
