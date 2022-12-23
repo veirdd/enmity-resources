@@ -5,6 +5,10 @@
   },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "enmity:block/waystone"},
-		{"predicate": {"custom_model_data":2}, "model": "enmity:item/waystone"}
+		{"predicate": {"custom_model_data":2}, "model": "enmity:item/waystone"},
+		{"predicate": {"custom_model_data":3}, "model": "enmity:block/heating_coil"},
+		{"predicate": {"custom_model_data":4}, "model": "enmity:item/heating_coil"},
+		{"predicate": {"custom_model_data":5}, "model": "enmity:block/cooling_coil"},
+		{"predicate": {"custom_model_data":6}, "model": "enmity:item/cooling_coil"}
 	]
 }
