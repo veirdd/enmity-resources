@@ -126,6 +126,8 @@
 		{"predicate": {"custom_model_data":119}, "model": "enmity:item/frostfire_charm"},
 		{"predicate": {"custom_model_data":120}, "model": "enmity:item/crimson_glyph"},
 		{"predicate": {"custom_model_data":121}, "model": "enmity:item/warped_glyph"},
+		{"predicate": {"custom_model_data":122}, "model": "enmity:item/healing_bolt"},
+		{"predicate": {"custom_model_data":123}, "model": "enmity:item/circle_of_vigour"},
 		{"predicate": {"custom_model_data":1001}, "model": "enmity:custom/leaf"},
 		{"predicate": {"custom_model_data":1002}, "model": "enmity:custom/silvan_crystal"},
 		{"predicate": {"custom_model_data":1003}, "model": "enmity:entity/wraith_1"},
